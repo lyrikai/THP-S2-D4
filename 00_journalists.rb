@@ -78,8 +78,8 @@ end
 
 def choise
     puts "tu veut quel programme ?"
-    puts "1 le plus cour " 
-    puts "2 pour le nombre d'entrée"
+    puts "1 pour le nombre d'entrée"
+    puts "2 le plus cour " 
     puts "3 pour les handle contenant 5 caractères"
     puts "4 pour les handle avec maj"
     puts "5 pour trier de a-z"
@@ -89,9 +89,9 @@ def choise
     print ">>>"
     input = gets.chomp.to_i
     if input === 1
-        short
-    elsif input === 2
         count
+    elsif input === 2
+        short
     elsif input === 3
         letter
     elsif input === 4

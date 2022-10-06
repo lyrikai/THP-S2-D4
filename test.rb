@@ -1,3 +1,4 @@
+
 def hash
 
     crypto = ["Bitcoin", "Ethereum", "XRP", "Bitcoin Cash", "EOS", "Litecoin", "Cardano", "Stellar", "IOTA", "Tether", "NEO", "TRON", "Monero", "Dash", "Ethereum Classic", "NEM", "Binance Coin", "VeChain", "OmiseGO", "Qtum", "Zcash", "Ontology", "ICON", "Bytecoin", "Lisk", "Zilliqa", "Bitcoin Gold", "Aeternity", "Decred", "0x", "Steem", "BitShares", "Bytom", "Siacoin", "Augur", "Verge", "Nano", "Maker", "Bitcoin Diamond", "Dogecoin", "DigiByte", "Waves", "Populous", "Golem", "RChain", "Status", "Stratis", "Wanchain", "Basic Attenti...", "IOST", "Mixin", "Hshare", "Bitcoin Private", "Nebulas", "KuCoin Shares", "Waltonchain", "Loopring", "DigixDAO", "aelf", "Huobi Token", "Aion", "GXChain", "Mithril", "Komodo", "Ardor", "Ark", "Bancor", "MaidSafeCoin", "MonaCoin", "Syscoin", "FunFair", "ReddCoin", "CyberMiles", "Kyber Network", "Dentacoin", "Monaco", "Emercoin", "Ethos", "Gas", "Elastos", "Cryptonex", "PIVX", "Loom Network", "Dropil", "Enigma", "Veritaseum", "Decentraland", "Kin", "WAX", "Theta Token", "Cortex", "Power Ledger", "MOAC", "Centrality", "WaykiChain", "Nxt", "Polymath", "Electroneum", "QASH", "Bibox Token", "Nuls", "SmartCash", "Factom", "TrueUSD", "Paypex", "Gifto", "Scry.info", "Game.com", "Substratum", "Storm", "ZCoin", "Byteball Bytes", "ChainLink", "Fusion", "TenX", "Blocknet", "ZenCash", "Docademic", "SALT", "Nexus", "Matrix AI Net...", "Storj", "BitcoinDark", "TokenPay", "Revain", "Dragonchain", "MediShares", "Civic", "Iconomi", "Achain", "High Performa...", "SingularityNET", "Bluzelle", "Time New Bank", "iExec RLC", "Nucleus Vision", "Nexty", "Selfkey", "Skycoin", "Nexo", "DeepBrain Chain", "BnkToTheFuture", "Holo", "SONM", "CyberVein", "Neblio", "Request Network", "Ruff", "Aragon", "SmartMesh", "DEW", "Santiment Net...", "Arcblock", "Streamr DATAcoin", "True Chain", "Bottos", "Dai", "Gnosis", "THEKEY", "Cindicator", "All Sports", "Po.et", "Quantstamp", "Asch", "eosDAC", "Storiqa", "BLOCKv", "ODEM", "EDUCare", "Ambrosus", "Enjin Coin", "Groestlcoin", "POA Network", "Particl", "Ignis", "Credits", "GameCredits", "SophiaTX", "Vertcoin", "Bread", "DigitalNote", "Dynamic Tradi...", "Raiden Networ...", "Genaro Network", "BOScoin", "CRYPTO20", "Ubiq", "SIRIN LABS Token", "Cube", "Odyssey", "Dent", "Peercoin", "Aston", "Safe Exchange...", "ETHLend", "Electra", "Crypterium", "Pillar", "Endor Protocol", "ZClassic", "NANJCOIN", "NKN", "IoT Chain", "IHT Real Esta...", "Metal", "DATA", "Bitcoin Interest", "Telcoin", "Trade Token", "Tokenomy", "SingularDTV", "Genesis Vision", "IoTeX", "Litecoin Cash", "Bitcore", "Edgeless", "Burst", "Unobtanium", "Ternio", "BridgeCoin", "Rock", "Bezant", "AdEx", "NavCoin", "Red Pulse", "Ink", "Internet Node...", "BitBay", "OriginTrail", "Distributed C...", "Primecoin", "Eidoo", "bitCNY", "Jibrel Network", "Einsteinium", "Republic Prot...", "Apex", "Stakenet", "Lympo", "Gulden", "TokenCard", "WhiteCoin", "SpankChain", "SwftCoin", "Delphy", "Eximchain", "Viacoin", "LGO Exchange", "Quantum Resis...", "Ripio Credit ...", "OST", "Linda", "district0x", "Wagerr", "SaluS", "FairCoin", "Universa", "PayPie", "YEE", "BABB", "APIS", "FuzeX", "DAEX", "Banca", "TokenClub", "CloakCoin", "TomoChain", "PRIZM", "GINcoin", "LinkEye", "QuarkChain", "Presearch", "Zebi", "Counterparty", "MinexCoin", "AirSwap", "BitRent", "Metaverse ETP", "Aeon", "Namecoin", "Ivy", "0chain", "AppCoins", "UTRUST", "DATx", "KickCoin", "WePower", "Cryptaur", "Wings", "Tierion", "CPChain", "Swarm", "INS Ecosystem", "Steem Dollars", "ION", "Havven", "Modum", "Ravencoin", "Sakura Bloom", "Feathercoin", "Hydro Protocol", "MobileGo", "Spectre.ai Di...", "DECENT", "LBRY Credits", "PACcoin", "Etherparty", "LoyalCoin", "WaBi", "ugChain", "Lunyr", "Phore", "Melon", "Zeepin", "ATN", "CasinoCoin", "NAGA", "Blox", "YOYOW", "OracleChain", "TaaS", "MARK.SPACE", "Peerplays", "CashBet Coin", "DecentBet", "XTRABYTES", "Credo", "QLINK", "Pura", "Mothership", "SelfSell", "MediBloc [ERC20]", "Datum", "Electrify.Asia", "HTMLCOIN", "Merculet", "Experience Po...", "Primas", "XinFin Network", "Mobius", "TrustNote", "VIBE", "Decision Token", "Qbao", "SHIELD", "Hive Project", "Humaniq", "Aurora DAO", "MediBloc [QRC20]", "Karma", "OneRoot Network", "Cashaa", "Constellation", "ECC", "Dock", "Oyster", "QunQun", "Bankex", "Envion", "U Network", "XMax", "FirstBlood", "Mercury", "Sentinel", "COSS", "Zeusshield", "Pepe Cash", "LEOcoin", "Crowd Machine", "Hydrogen", "Fortuna", "Alphacat", "Soarcoin", "Shift", "Cofound.it", "DNotes", "CEEK VR", "TE-FOOD", "Blackmoon", "AICHAIN", "ProChain", "Viberate", "ColossusXT", "Elastic", "Synereo", "BlockMason Cr...", "Datawallet", "Trinity Netwo...", "Cobinhood", "Covesting", "bitUSD", "Everex", "HempCoin", "SpaceChain", "Bitcoin Green", "DIMCOIN", "Triggers", "iXledger", "Maecenas", "Bismuth", "Propy", "Ormeus Coin", "Medicalchain", "PotCoin", "Unikoin Gold", "STK", "Measurable Da...", "Quantum", "LIFE", "GridCoin", "StrongHands", "Pascal Coin", "Rialto", "Boolberry", "Bloom", "Olympus Labs", "Proxeus", "Bean Cash", "Lamden", "Oxycoin", "Neurotoken", "Moeda Loyalty...", "DeepOnion", "SunContract", "RevolutionVR", "Restart Energ...", "Smartlands", "adToken", "ALQO", "NoLimitCoin", "Diamond", "XYO Network", "LATOKEN", "Energo", "BlackCoin", "Nework", "E-Dinar Coin", "LUXCoin", "MonetaryUnit", "Gems ", "Refereum", "Neumark", "Switcheo", "DADI", "Smartshare", "Dimecoin", "Matchpool", "VeriCoin", "Blockport", "Crown", "Numeraire", "Omni", "Mooncoin", "Flash", "Bodhi", "SureRemit", "Blocktix", "I/O Coin", "Aeron", "Chronobank", "Uquid Coin", "Monetha", "OAX", "Agrello", "AI Doctor", "ALAX", "Radium", "CoinPoker", "Divi", "DMarket", "Clams", "Incent", "Silent Notary", "Banyan Network", "Callisto Network", "Etheroll", "Stox", "Everus", "carVertical", "SolarCoin", "Rubycoin", "Phantasma", "Remme", "PikcioChain", "SwissBorg", "Hacken", "Hi Mutual Soc...", "Databits", "PolicyPal Net...", "Cappasity", "ATMChain", "Nebula AI", "LockTrip", "Hexx", "Rentberry", "Patron", "The Abyss", "BetterBetting", "Friendz", "DubaiCoin", "The ChampCoin", "Expanse", "BitClave", "FlorinCoin", "UpToken", "HeroNode", "Sprouts", "EchoLink", "ICOS", "HollyWoodCoin", "MedicCoin", "Global Curren...", "REBL", "Russian Miner...", "NewYorkCoin", "Paragon", "LoMoCoin", "aXpire", "Dovu", "EnergiToken", "RED", "Origin Sport", "ShipChain", "Dynamic", "NeosCoin", "PolySwarm", "Gambit", "EXRNchain", "Sharder", "Sentinel Chain", "Bitcoin Atom", "AurumCoin", "Rise", "Myriad", "Elixir", "Shivom", "SIBCoin", "Bulwark", "Stealth", "InvestFeed", "Guaranteed Et...", "Xaurum", "BitDegree", "Novacoin", "Rivetz", "DomRaider", "AirToken", "indaHash", "Matryx", "DAOstack", "InsurePal", "Flixxo", "BitSend", "Aphelion", "Effect.AI", "Swarm City", "OKCash", "GET Protocol", "Nexium", "Unibright", "ZrCoin", "CVCoin", "BitTube", "Bezop", "Aventus", "U.CASH", "Change", "Musicoin", "NaPoleonX", "Pirl", "Digitex Futures", "Profile Utili...", "ShareX", "Eroscoin", "CFun", "Faceter", "Playkey", "Energycoin", "Zap", "Hubii Network", "Bee Token", "CargoX", "LALA World", "Sequence", "Patientory", "FoldingCoin", "Loki", "Debitum", "EncrypGen", "Golos", "PinkCoin", "LatiumX", "BitConnect", "Espers", "Pareto Network", "AdHive", "CanYaCoin", "B2BX", "Dotcoin", "MUSE", "Zilla", "GoByte", "IDEX Membership", "Target Coin", "MktCoin", "Bitcrystals", "Solaris", "WeTrust", "Stipend", "Travelflex", "SRCOIN", "Pandacoin", "AidCoin", "Helbiz", "Local World F...", "DeviantCoin", "Lendingblock", "ToaCoin", "BitDice", "MaxCoin", "Graft", "Ink Protocol", "Spectrecoin", "Curecoin", "I0Coin", "CommerceBlock", "Linker Coin", "Primalbase Token", "XPA", "Bounty0x", "adbank", "Colu Local Ne...", "Waves Communi...", "Circuits of V...", "HEAT", "BitcoinZ", "JET8", "Mysterium", "NPER", "1World", "Nimiq Exchang...", "ClearPoll", "Aditus", "Snovio", "Auroracoin", "VeriME", "Sharechain", "Morpheus Labs", "Fidelium", "Spectiv", "TrueFlip", "MyBit Token", "CoinFi", "Leadcoin", "BitStation", "0xBitcoin", "Privatix", "Travala", "Fluz Fluz", "Blue Protocol", "ALIS", "HOQU", "ATBCoin", "Worldcore", "Devery", "Block Array", "Mintcoin", "Kore", "Sumokoin", "AdShares", "Sether", "APR Coin", "Tokes", "Hurify", "Gladius Token", "EZToken", "Sphere", "ArtByte", "Dero", "Peculium", "Bitcoin Plus", "Polis", "Syndicate", "Pesetacoin", "Cryptopay", "2GIVE", "GoldCoin", "Vice Industry...", "DAO.Casino", "BioCoin", "Open Trading ...", "FedoraCoin", "Universal Cur...", "IP Exchange", "REAL", "SpreadCoin", "Zippie", "Internet of P...", "Neutron", "Haven Protocol", "Ixcoin", "GeoCoin", "Terracoin", "Oyster Shell", "Internxt", "Yocoin", "Rupaya", "Vezt", "Auctus", "Zoin", "TransferCoin", "Memetic / Pep...", "FundRequest", "Gatcoin", "FidentiaX", "Global Crypto...", "ATLANT", "Insights Network", "Payfair", "Spectre.ai Ut...", "Qwark", "Social Send", "SportyCo", "Dether", "Education Eco...", "NuBits", "B3Coin", "Riecoin", "Karbo", "Experty", "Indorse Token", "Capricoin", "HelloGold", "Voise", "Iungo", "VeriumReserve", "Breakout Stake", "Sociall", "Tokia", "Altcoin", "Starbase", "HEROcoin", "eBoost", "DopeCoin", "ExclusiveCoin", "Denarius", "FintruX Network", "Upfiring", "AMLT", "Zephyr", "Quark", "Bonpay", "FLIP", "Publica", "MyWish", "FlypMe", "CannabisCoin", "Digix Gold Token", "Parkgene", "COPYTRACK", "CryptoCarbon", "Hush", "Maverick Chain", "Chainium", "Xenon", "vTorrent", "Naviaddress", "CryptoPing", "Elite", "Sexcoin", "Aigang", "Coinlancer", "Crave", "Masari", "ChainCoin", "DigiPulse", "Galactrum", "Lampix", "TeslaCoin", "Bigbom", "Invacio", "Stellar Holdings", "Viuly", "e-Gulden", "StarterCoin", "Breakout", "CampusCoin", "Sugar Exchange", "Monoeci", "Daneel", "FORCE", "AudioCoin", "FantasyGold", "XGOX", "EverGreenCoin", "onG.social", "Ergo", "Bitmark", "Hat.Exchange", "Autonio", "Tokenbox", "BuzzCoin", "BiblePay", "BlitzPredict", "GCN Coin", "Vsync", "LOCIcoin", "Verify", "MicroMoney", "Digitalcoin", "eBitcoin",
@@ -20,15 +21,7 @@ def max
             end
         end
 
-    puts" 
-    -----------------------------------------------------
-  < La cryto la plus cher est #{hash.index(j)} a #{j} $  >
-    -----------------------------------------------------
-                           \     ^__^
-                             \   (oo)\_______
-                                (__)\       )----       
-                                   ||----w |
-                                   ||     ||"
+    puts "la cryto la plus cher est #{hash.index(j)} a #{j} $" 
     return j
    
 end 
@@ -49,15 +42,7 @@ def min
         end
     end
 
-    puts" 
-    -----------------------------------------------------
-  < La cryto la moins cher est #{hash.index(k)} a #{k} $ >
-    -----------------------------------------------------
-                           \     ^__^
-                             \   (oo)\_______
-                                (__)\       )----       
-                                   ||----w |
-                                   ||     ||"
+    puts "la cryto la moins cher est #{hash.index(k)} a #{k} $"
 
 end
 #-------------------------------
@@ -72,15 +57,7 @@ def sixmille
      
         end     
      end
-     puts" 
-     ---------------------------------------------
-   < Voila la liste des cryptos a mois de 6000 $ >
-     ---------------------------------------------
-                            \     ^__^
-                              \   (oo)\_______
-                                 (__)\       )----       
-                                    ||----w |
-                                    ||     ||"
+     
 end
 
 #-------------------------------
@@ -98,47 +75,20 @@ def maxsix
         
     end
 
-    puts" 
-    ---------------------------------------------------------------------
-  < La cryto la plus chez a plus de 6000$ est #{hash.index(o)} a #{o} $ >
-    ---------------------------------------------------------------------
-                           \     ^__^
-                             \   (oo)\_______
-                                (__)\       )----       
-                                   ||----w |
-                                   ||     ||"
+    puts "la cryto la plus chez a plus de 6000$ est #{hash.index(o)} a #{o} $"
 
 end
 
 #-------------------------------
 
 def choise
-    puts " __________________Bonjour, tu veut quel programme ?__________________"
-    puts"|                                                                     |
-|     ---------------------                                           |
-|    < CHOISIS ENTRE 1 ET 4 >                                         |
-|      ---------------------                                          |
-|                    \   ^__^                                          |
-|                     \  (oo)\_______                                   |
-|                       (__)\       )----                              |
-|                          ||----w |                                  |
-|                          ||     ||                                  |"                                               
-    puts "|_____________________________________________________________________|"
-    puts "|                                                                     |"
-    puts "| 1) La crytpo la plus cher       |||||   2) La crytpo la moin cher   |" 
-    puts "| 3) Les crytpo a moins de 6000   |||||   4) La best crytop a - 6000$ |"
-    puts "|_____________________________________________________________________|"
-    puts ""
-    print ">>>>>>>>>>>>>>>> Je choisis le programme n°"
+    puts "tu veut quel programme ?"
+    puts "1 la crytpo la plus cher  " 
+    puts "2 la crytpo la moin cher"
+    puts "3 pour les handle contenant 5 caractères"
+    puts "4 pour les handle avec maj"
+
     input = gets.chomp.to_i
-
-    print "LOADING "
-    60.times do 
-        print "#" 
-        sleep 0.02
-    end
-    puts ""
-
     if input === 1
         max
     elsif input === 2
@@ -147,31 +97,7 @@ def choise
         sixmille
     elsif input === 4
         maxsix
-    else
-        15.times do |i| 
-            print "5̸̧̣͈͆̀͑̓̓͐̀̿͂͆̃̀̍̀́̈̌͊͘̕͜͝͝͝͝͝5̷̛̬͓̼͖̪̞͙̦̦̤͓̟͉̦͍̝̳̦̼͔̹̇̌͂̓͂̍͆̎͒̅̂̂̀̋̋͗̃͆͊̽̀̈́͆̈́̒͑͂̓̉͒̃́͂̈͘̚͝͠5̷̢̡̢̧̨̛̯̟̪͉͖̫̪̱̪̗͈̖̟̟̺̱̮̗͕̠̥̣̦͎̝̫̯̯͈̰̬̼̂͊̀̈́̆̒̃̀͠ͅ5̷̨̧̨̨̨̞͎̯̮͇̗̜͈͚̰̟̝͉̼̣̭̞̳͉̞͙͖̺͇̟̺͕̙̭̱̥̺͌̏̐̏͛͐̈́̉͛̏͂͊̀͋̏̈̃͘͜͠͝ͅ5̸̡̧̠̥̦̤̤̝͈̠͎̑͛4̷̖̭́̈́̒̀̀̾͒̎͋̐͋͑̓̌̀́̑͋̕͘͝ENTRE 1 ET 4 !!!!!!1̶̢̡̡̡͙͔̼͓͉͇̫̻̝̗̲͕͚͙̗̟̍̈́̋͑͛̓̈́́͌4̶̢̛̣̹̰́̒̚1̶̢̨̞̬̣̳͓̲̳͎̪̘̱͎̙̟̞̳͖̳͔͎̗̘̙͕̘̲̥̠͉̯̞̟͓͖̮͖̹̩̫̪͖̖͌͂͜4̴̧͉͎̳̞̹̃̀́̓̂͗̀̏̔̊̾̀̅͒̾̓̽̇̄͐̄̕͘" * i   
-            
-            7.times do 
-                puts "ALERT !!!!!!! ALERT !!!!!!! ALERT !!!!!!! ALERT !!!!!!! ALERT !!!!!!! ALERT !!!!!!! ALERT !!!!!!! ALERT !!!!!!! ALERT"
-            end
-
-            print "ģ̵̨̨̛͉̱̤̻͈͚̹̲̳̰̲̰̳͈̦͙̻̮̖̟̱͍̼̳̥̼̣̳͇̻̣͗̓̃̓̂̒̾̏̇̏͗̍̄̎̑͑̋̎̄̀̾͊̄͝͝͠͝͝͝ͅḟ̴̧̧̛̙̝̻̜̭̰̖͚͈̦͇̯̜̞̻̖̺̟͎͔̞̞̈́̊͌̏͌̌̎̄̀̀̐̔͒̔̓̈́̽̈́͊͋̀̋͂̊̊̋̅̑̓̇͑͜͜͝͝͠͝͝ͅͅy̸̢̨̧̞̤͎̬͔̳͓͕̳̰̭̹̳͙͙̱̹̫̞̗̭͔̌͐̀͂̅͊̔̑̽̀̈́̅̈́̒̒͊̈́̉͂̉̂̑́̆̋̃̉̈́̊̑͒̕͠͝͠NOT A GOOD NUBER"
-
-
-            print " o̶̧̢̼̭̤̭͇̩̻̮̯̩͎̣̩̤͇̩̻͊̈́̑͆̅̈̈̉͌̍̐̇̉͑̔̇̃̍͐̊̅̅͗͑̓̏̌̊̚̚͠ķ̸̟̟̻̳̲̻̟̔̿́̔͋͛͊̓̂̌̀͑́̀̌̑͒̄̽̆͊̇́̀͊̈́̐̈́̆̎͐̑̂͘̚͠͝͝͠k̶̢̨̥̼͖͕͕̫̩̝͙͎̻̣̘̜̤̹̠̳̝͎̥͊͑̏̆͗̐̐̌͗͆́̓̀͛͗̉͒͋̂͌̽̆̌̉̄̽̒̑̒́̀̄̈̾̈́̈́̈́̕͘̕͠͝͠͠͠ͅg̷̢̡̨̧̨͈͉̙̝͈̮̠͙̜̺̠̬̯͇̯̥̤͍̭͎͙͉͍̹̮̦̫͉͖̺͙̯̋͊̍̃̓̈́͑̔̓͒́͌̇̂̈́͒͛̓͑̾͌̓̆̋̄̀̿̈́͒͛͌͐̚͘͝ͅi̸̡̡̧̧̢̢̧̧̤͙͎̜̫̜̼͕̯͇̼̥͚̮̫͓̬̰̬̦̞̺̰̮̫̙͉͈̳̝̇̔́̓̓͛͐͐͘̚̚͝ͅư̸̡̬̮̭̮̺̪͈̞͕͙̻̐̈͒̀̌̒̓̇͛͋͋̈́͗̿͋͐͛̑̚̕̚̚͝s̴̨̝̙̣͍̝̘̙̯̭̈́͊i̵̛̤͍̼̩͈͈̟͔͉̮͛͂́̈́̍̄́̾̿͂̑̎̈́̀͆́͂̄̕͘͘͘͝͝͠ģ̵̨̨̛͉̱̤̻͈͚̹̲̳̰̲̰̳͈̦͙̻̮̖̟̱͍̼̳̥̼̣̳͇̻̣͗̓̃̓̂̒̾̏̇̏͗̍̄̎̑͑̋̎̄̀̾͊̄͝͝͠͝͝͝ͅḟ̴̧̧̛̙̝̻̜̭̰̖͚͈̦͇̯̜̞̻̖̺̟͎͔̞̞̈́̊͌̏͌̌̎̄̀̀̐̔͒̔̓̈́̽̈́͊͋̀̋͂̊̊̋̅̑̓̇͑͜͜͝͝͠͝͝ͅͅy̸̢̨̧̞̤͎̬͔̳͓͕̳̰̭̹̳͙͙̱̹̫̞̗̭͔̌͐̀͂̅͊̔̑̽̀̈́̅̈́̒̒͊̈́̉͂̉̂̑́̆̋̃̉̈́̊̑͒̕͠͝͠u̷̡̡̯̫̯̲̜͚͎͓̲͚͉̟͔͕̦͎̻̮͓̙̩̠̳͉͉̞̗̩͕͍̰̘̖̬̪̅͝ş̸̡̛̲͚̫̘̗̥̮̘͖͍͚̰͙̖̑̈͋̈́̏͛̂̈́̋̏̄̆̍̒̎͗̈́̏̄̂͒̅̓͋̈́̄́͑̄͗͒̇̀̕͘͝͝͝͝y̶̧̧̠̗̼͍̯̜͎͈̱̙̯͇͎̰͈̥̖̹̙̟̻̦̼̺͙̫͎̦̪̾̔̿̇̿̒̓̎̉̈́͂͋͗̀̽̇̚͠ͅͅCRAAAAAAAAAASHg̵̢̨̡̨̬͍͉͕̳̜̙̟̹̞͔̗̤̣͚̠̳͇͎̑̍̈́͆̇̉̾͋̀̑̅̂̆͋̄͠ͅͅừ̴̢̡̢̲͚̙͔̩̂̈́̑̎̐̐̃͊͑̿͂̉̐̏̅̀̿͝f̶̳̺̔̑͐͛͊̈́͆̈̓̃̈́̀̐̅̈ş̶̢̮͎͖̹̲̺̫̼̞̘̺̖͇̠̬̯͒͛́̒͑̉͗̒͐̽̈́̽̈́͒̅̇̑̇͒̊́͑̒̎͊̀̅̈̏͊̎̈́͜͝͠͠͝z̴͓̲̫̬̭̭͉͈̘̘͇͙̟̲̘͙̮͕̎̉̓̎̅͜͠g̶̨̧̧̡̢̨̰̭̥̳̤͇͕̖͎̜͕̬̩͍̩̳̯͇̋ͅ"
-            sleep 0.1
-        end
-
-        puts ""
-        puts" 
-        ----------------------------
-      < J'AVAIS DIS ENTRE 1 ET 4 :( >
-        ----------------------------
-                        \    v__v
-                            (XX)\_______
-                            (__)\_______)----       
-                    --------------------------------"
-    end 
+    end
 end
 
 def run
