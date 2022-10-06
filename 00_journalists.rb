@@ -107,10 +107,10 @@ def choise
     end
 end
 
-def start
+def perform
     fulltab
     run
     choise
 end
 
-start
+perform

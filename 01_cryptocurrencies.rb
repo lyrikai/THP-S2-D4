@@ -29,6 +29,7 @@ def max
                                 (__)\       )----       
                                    ||----w |
                                    ||     ||"
+                                
     return j
    
 end 
@@ -174,9 +175,9 @@ def choise
     end 
 end
 
-def run
+def perform
     hash
     choise
 end
 
-run
+perform
