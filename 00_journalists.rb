@@ -93,7 +93,7 @@ def choise
     elsif input === 2
         short
     elsif input === 3
-        letter
+        letter 
     elsif input === 4
         upper
     elsif input === 5
